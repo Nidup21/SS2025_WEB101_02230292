@@ -1,0 +1,8 @@
+{
+  "/page": "app/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/explore-users/page": "app/explore-users/page.js",
+  "/profile/[userId]/page": "app/profile/[userId]/page.js",
+  "/following/page": "app/following/page.js",
+  "/upload/page": "app/upload/page.js"
+}
